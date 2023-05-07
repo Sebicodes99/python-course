@@ -16,4 +16,3 @@ first_name = "Sebastian"
 is_online = True
 
 print(age)
-
