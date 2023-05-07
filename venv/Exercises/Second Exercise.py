@@ -1,4 +1,4 @@
-# Exercise: Add a float number to a int number.
+# Exercise: Add a float number to an int number.
 
 number = input("First: ")
 s_number = input("Second: ")  # Second
