@@ -21,3 +21,6 @@ print(first_name)
 print(is_online)
 
 # Inputs
+
+name = input("What is your name? ") # Ask for information
+print("Hello, " + name) # Concatenate a string
