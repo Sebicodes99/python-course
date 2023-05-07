@@ -15,3 +15,9 @@ numbers.insert(0, -1)  # Removes the last item
 # numbers.clear()  Clears the list
 print(1 in numbers)  # Checks if 1 is in numbers (a boolean expression)
 print(len(numbers))  # It tells how many elements are in the list
+
+# Tuples
+
+numbers2 = (1, 2, 3)
+# numbers2[0] = 10 That would fail because tuples are immutable
+numbers2.count(3) # Returns 2
